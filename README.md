@@ -1,1 +1,1 @@
-# simplebuttonclick-java-project
+# simplebuttonclick-javascript-project
